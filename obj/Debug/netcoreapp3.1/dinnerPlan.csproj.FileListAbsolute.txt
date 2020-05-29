@@ -1,0 +1,13 @@
+C:\Users\hspro\workspace\dinnerPlan\bin\Debug\netcoreapp3.1\dinnerPlan.exe
+C:\Users\hspro\workspace\dinnerPlan\bin\Debug\netcoreapp3.1\dinnerPlan.deps.json
+C:\Users\hspro\workspace\dinnerPlan\bin\Debug\netcoreapp3.1\dinnerPlan.runtimeconfig.json
+C:\Users\hspro\workspace\dinnerPlan\bin\Debug\netcoreapp3.1\dinnerPlan.runtimeconfig.dev.json
+C:\Users\hspro\workspace\dinnerPlan\bin\Debug\netcoreapp3.1\dinnerPlan.dll
+C:\Users\hspro\workspace\dinnerPlan\bin\Debug\netcoreapp3.1\dinnerPlan.pdb
+C:\Users\hspro\workspace\dinnerPlan\obj\Debug\netcoreapp3.1\dinnerPlan.csprojAssemblyReference.cache
+C:\Users\hspro\workspace\dinnerPlan\obj\Debug\netcoreapp3.1\dinnerPlan.AssemblyInfoInputs.cache
+C:\Users\hspro\workspace\dinnerPlan\obj\Debug\netcoreapp3.1\dinnerPlan.AssemblyInfo.cs
+C:\Users\hspro\workspace\dinnerPlan\obj\Debug\netcoreapp3.1\dinnerPlan.csproj.CoreCompileInputs.cache
+C:\Users\hspro\workspace\dinnerPlan\obj\Debug\netcoreapp3.1\dinnerPlan.dll
+C:\Users\hspro\workspace\dinnerPlan\obj\Debug\netcoreapp3.1\dinnerPlan.pdb
+C:\Users\hspro\workspace\dinnerPlan\obj\Debug\netcoreapp3.1\dinnerPlan.genruntimeconfig.cache
